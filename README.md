@@ -20,8 +20,9 @@ CUSA00265 - Minecraft
 
 
 
-+++++++++++++++++++
+++++++++++++
 INSTALLATION
+++++++++++++
 
 
 
@@ -39,6 +40,10 @@ add your title Id into /data/GoldHen/Plugins.ini - example:
 
 
 
+++++++++++++
+CONTROLS
+++++++++++++
+
 load game and you should get notify it worked
 
 R3 + Dpad Down = Open Menu
@@ -46,6 +51,9 @@ R3 + Dpad Down = Open Menu
 R1 - L1 = Change Pages
 
 
+++++++++++++
+PRESETS
+++++++++++++
 
 your saved presets can be found in /data/Goldhen/PostFx
 and shared with friends and community
