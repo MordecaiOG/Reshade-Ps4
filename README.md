@@ -1,5 +1,5 @@
 # Reshade-Ps4
-Made by towelie and the assistance of claude
+Made by toweliee and the assistance of claude
 Revised and published by MordecaiOG
 
 
