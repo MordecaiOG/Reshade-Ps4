@@ -35,9 +35,11 @@ postfx_icon.png into /data/GoldHen
 add your title Id into /data/GoldHen/Plugins.ini - example: 
 
 [CUSA00419]
+
 /data/GoldHEN/plugins/postfx.prx
 
 [CUSA00265]
+
 /data/GoldHEN/plugins/postfx.prx
 
 
