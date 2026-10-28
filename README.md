@@ -3,7 +3,7 @@ Made by towelie and the assistance of claude
 Revised and published by MordecaiOG
 
 
-# TESTED ON 12.00 and 13.2
+# TESTED ON 12.00 and 13.02
 
 
 Known Working Game Titles
