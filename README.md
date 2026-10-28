@@ -29,6 +29,8 @@ INSTALLATION
 place postfx.prx in your goldhen plugins folder
 /data/GoldHen/Plugins
 
+postfx_icon.png into /data/GoldHen 
+
 
 add your title Id into /data/GoldHen/Plugins.ini - example: 
 
