@@ -24,7 +24,7 @@ CUSA00265 - Minecraft
 INSTALLATION
 ++++++++++++
 
-Download zip from Release https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4
+Download Reshade.zip from Release https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4
 
 place postfx.prx in your goldhen plugins folder
 /data/GoldHen/Plugins
