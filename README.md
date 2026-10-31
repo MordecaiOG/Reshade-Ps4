@@ -18,6 +18,8 @@ CUSA01830 - ASSETTO CORSA
 
 CUSA00265 - Minecraft
 
+CUSA16596 - CyberPunk 2077
+
 
 
 ++++++++++++
