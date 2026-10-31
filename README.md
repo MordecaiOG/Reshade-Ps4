@@ -1,86 +1,91 @@
-# Reshade-Ps4
-Made by toweliee and the assistance of claude
-Revised and published by MordecaiOG
+# Reshade-PS4
 
+> ReShade post-processing effects for PS4 — powered by GoldHEN plugins.
 
-# TESTED ON 12.00 and 13.02
+**Original author:** toweliee (with assistance from Claude)
+**Revised & published by:** MordecaiOG
 
+---
 
-Known Working Game Titles
+## ✅ Tested Firmware
 
-CUSA15633 - CarX
+| Firmware |
+|----------|
+| 12.00 |
+| 13.02 |
 
-CUSA12398 - The Forest
+---
 
-CUSA00419 - GTA5
+## 🎮 Known Working Titles
 
-CUSA01830 - ASSETTO CORSA
+| Title ID | Game |
+|----------|------|
+| CUSA15633 | CarX |
+| CUSA12398 | The Forest |
+| CUSA00419 | GTA V |
+| CUSA01830 | Assetto Corsa |
+| CUSA00265 | Minecraft |
+| CUSA16596 | Cyberpunk 2077 |
 
-CUSA00265 - Minecraft
+---
 
-CUSA16596 - CyberPunk 2077
+## 📦 Installation
 
+1. Download **Reshade.zip** from the [latest release](https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4).
 
+2. Copy files to your PS4:
 
-++++++++++++
-INSTALLATION
-++++++++++++
+   | File | Destination |
+   |------|-------------|
+   | `postfx.prx` | `/data/GoldHEN/Plugins/` |
+   | `postfx_icon.png` | `/data/GoldHEN/` |
 
-Download Reshade.zip from Release https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4
+3. Add your Title ID(s) to `/data/GoldHEN/Plugins.ini`:
 
-place postfx.prx in your goldhen plugins folder
-/data/GoldHen/Plugins
+   ```ini
+   [CUSA00419]
+   /data/GoldHEN/plugins/postfx.prx
 
-postfx_icon.png into /data/GoldHen 
+   [CUSA00265]
+   /data/GoldHEN/plugins/postfx.prx
+   ```
 
+---
 
-add your title Id into /data/GoldHen/Plugins.ini - example: 
+## 🎛️ Controls
 
-[CUSA00419]
+| Input | Action |
+|-------|--------|
+| R3 + D-pad Down | Open Menu |
+| R1 / L1 | Change Pages |
 
-/data/GoldHEN/plugins/postfx.prx
+On first load, you'll receive an in-game notification confirming the plugin is active.
 
-[CUSA00265]
+---
 
-/data/GoldHEN/plugins/postfx.prx
+## 💾 Presets
 
+Your saved presets are stored at:
 
+```
+/data/GoldHEN/PostFx/
+```
 
-++++++++++++
-CONTROLS
-++++++++++++
+Presets are portable — share them with friends or the community freely.
 
-load game and you should get notify it worked
+---
 
-R3 + Dpad Down = Open Menu
+## ⚠️ Notice
 
-R1 - L1 = Change Pages
+If you use **third-party multiplayer plugins**, make sure `postfx.prx` is listed **after** them in your `Plugins.ini`.
 
+---
 
-++++++++++++
-PRESETS
-++++++++++++
+## 📸 Screenshots
 
-your saved presets can be found in /data/Goldhen/PostFx
-and shared with friends and community
-
-
-+++++++++
-*NOTICE*
-+++++++++
-
-IF YOU USE 3RD PARTY MULTIPLAYER PLUGINS MAKE SURE YOU LIST PostFx.prx AFTER
-
-
-
-
-+++++++++
-IMAGES
-+++++++++
-
-![Alternative Text](image.png)
-![Alternative Text](image2.png)
-![Alternative Text](image3.png)
-![Alternative Text](image4.png)
-![Alternative Text](image5.png)
-![Alternative Text](image6.png)
+![Screenshot 1](image.png)
+![Screenshot 2](image2.png)
+![Screenshot 3](image3.png)
+![Screenshot 4](image4.png)
+![Screenshot 5](image5.png)
+![Screenshot 6](image6.png)
