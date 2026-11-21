@@ -28,6 +28,8 @@
 | CUSA01830 | Assetto Corsa |
 | CUSA00265 | Minecraft |
 | CUSA16596 | Cyberpunk 2077 |
+| CUSA04294 | Watch Dogs 2 |
+| CUSA09958 | MudRunner |
 
 ---
 
