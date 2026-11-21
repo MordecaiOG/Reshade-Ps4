@@ -9,10 +9,12 @@
 
 ## ✅ Tested Firmware
 
-| Firmware |
+| TESTED Firmware |
 |----------|
 | 12.00 |
 | 13.02 |
+| 14.02 |
+| 14.00 |
 
 ---
 
@@ -31,7 +33,7 @@
 
 ## 📦 Installation
 
-1. Download **Reshade.zip** from the [latest release](https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4).
+1. Download **GoldHEN.zip** from the [latest release](https://github.com/MordecaiOG/Reshade-Ps4/releases/tag/reshade_ps4).
 
 2. Copy files to your PS4:
 
