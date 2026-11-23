@@ -6,15 +6,34 @@
 **Revised & published by:** MordecaiOG
 
 ---
+---
 
+## What's New in 1.5
+
+### Unreal Engine 4 Hooks
+
+###  New effects
+| Effect |
+|--------|
+| **Anti-aliasing (DLAA)** |
+| **AgX tonemap** |
+| **Adaptive sharpen (CAS)** |
+| **Deband** | Light & Lens |
+| **Auto exposure** |
+| **LUT (.cube)** |
+
+**Using LUTs:** drop a `.cube` file (16/32/64 sized) at `/data/GoldHEN/postfx/luts/lut.cube`
+and raise the **LUT** slider on the Colour page. A cinematic starter LUT is included in the release.
+
+---
 ## ✅ Tested Firmware
 
 | TESTED Firmware |
 |----------|
 | 12.00 |
 | 13.02 |
-| 14.02 |
 | 14.00 |
+| 14.02 |
 
 ---
 
@@ -23,13 +42,18 @@
 | Title ID | Game |
 |----------|------|
 | CUSA15633 | CarX |
+| CUSA01830 | Assetto Corsa |
+| CUSA20488 | Ride 4 |
 | CUSA12398 | The Forest |
 | CUSA00419 | GTA V |
-| CUSA01830 | Assetto Corsa |
+| CUSA08519 | Red Dead Redemption 2 |
 | CUSA00265 | Minecraft |
 | CUSA16596 | Cyberpunk 2077 |
 | CUSA04294 | Watch Dogs 2 |
 | CUSA09958 | MudRunner |
+| CUSA17425 | SnowRunner |
+| CUSA07668 | Insurgency: Sandstorm |
+| CUSA06877 | MX vs ATV All Out |
 
 ---
 
@@ -82,6 +106,7 @@ Presets are portable — share them with friends or the community freely.
 ## ⚠️ Notice
 
 If you use **third-party multiplayer plugins**, make sure `postfx.prx` is listed **after** them in your `Plugins.ini`.
+
 
 ---
 
